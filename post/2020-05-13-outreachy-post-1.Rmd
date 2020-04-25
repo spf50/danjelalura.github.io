@@ -1,0 +1,19 @@
+---
+title: Outreachy Post 1
+author: Danjela Lura
+date: '2020-05-13'
+slug: outreachy-post-1
+image: "img/portfolio/outreachy.png"
+weight: 1
+showonlyimage: false
+draft: false
+categories: []
+tags: ['outreachy', 'guix-data-service']
+---
+
+##### Experiences Applying to Outreachy
+
+
+
+
+
