@@ -10,8 +10,23 @@ draft: false
 categories: []
 tags: ['outreachy', 'guix-data-service']
 ---
+> My application experience
+<!--more-->
 
-##### Experiences Applying to Outreachy
+I decided to apply to Outreachy while trying to determine whether Computer Science was the field I really wanted to be studying. 
+
+At that time I was reading “The Success of Open Source” by Steven Weber, a book that changed my entire outlook on property and made me curious to experience the Free and Open Source realm at first hand. The thing was, I wasn’t confident enough to get started or reach out for help out of the blue, so I kept delaying any disclosure of myself to the outside world for as long as possible. 
+
+At some point, I started getting dubious about my potential to do good in the field I was studying so I decided to step out of my comfort zone and apply to Outreachy. 
+
+I am happy to announce that I was accepted to work on “Improving Internationalization Support for Guix Data Service”. The more the internship start date approaches the more excited I get. Well, I am simultaneously excited and intimidated because this is my first internship and I don't know whether I am going to succeed, but there will be more to write about that in the future. 
+
+Since this post is aimed towards depicting my application experience, I will go through the hindrances faced during the application and what I took into consideration while choosing the project. 
+
+Something you have to keep in mind is that you have to be legally eligible to work on your country of residence and I realized this only when filling out the initial application form. I study in Greece and the only permit I possess is a student one, so I had to contact the Outreachy organizers and let them know that I would be in a country where I was eligible to work during the internship period. 
+
+Choosing a project was a whole other challenge. In order to avoid getting overwhelmed, I decided to concentrate on one project only and stay as close as possible to the tech stack I already had some knowledge of. 
+All in all this was my experience applying to outreachy. There will be more detailed posts about the contribution period and the progress of my internship.   
 
 
 
