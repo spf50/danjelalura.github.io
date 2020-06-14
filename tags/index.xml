@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Danjela Lura</title>
@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Danjela Lura</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>guix-data-service</title>
       <link>/tags/guix-data-service/</link>
-      <pubDate>Wed, 13 May 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/guix-data-service/</guid>
       <description></description>
@@ -23,7 +23,7 @@
     <item>
       <title>outreachy</title>
       <link>/tags/outreachy/</link>
-      <pubDate>Wed, 13 May 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/outreachy/</guid>
       <description></description>

@@ -1,5 +1,6 @@
 ---
 title: Outreachy Post 1
+output: html_document
 author: Danjela Lura
 date: '2020-05-13'
 slug: outreachy-post-1
@@ -7,8 +8,10 @@ image: "img/portfolio/outreachy.png"
 weight: 1
 showonlyimage: false
 draft: false
-categories: []
-tags: ['outreachy', 'guix-data-service']
+categories:
+  - Outreachy
+tags: ["outreachy", "guix-data-service"]
+
 ---
 > My application experience
 <!--more-->
@@ -26,7 +29,7 @@ Since this post is aimed towards depicting my application experience, I will go 
 Something you have to keep in mind is that you have to be legally eligible to work on your country of residence and I realized this only when filling out the initial application form. I study in Greece and the only permit I possess is a student one, so I had to contact the Outreachy organizers and let them know that I would be in a country where I was eligible to work during the internship period. 
 
 Choosing a project was a whole other challenge. In order to avoid getting overwhelmed, I decided to concentrate on one project only and stay as close as possible to the tech stack I already had some knowledge of. 
-All in all this was my experience applying to outreachy. There will be more detailed posts about the contribution period and the progress of my internship.   
+All in all, this was my experience applying to Outreachy. There will be more detailed posts about the progress of my internship.   
 
 
 

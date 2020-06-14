@@ -1,0 +1,32 @@
+---
+title: Outreachy Post 2
+author: Danjela Lura
+date: '2020-06-14'
+slug: outreachy-post-2
+image: "img/portfolio/outreachy.png"
+weight: 1
+showonlyimage: false
+draft: false
+categories:
+  - Outreachy
+tags: ['outreachy', 'guix-data-service']
+---
+> Everybody struggles
+<!--more-->
+
+Hi everyone! 
+
+It’s been four weeks since my [Outreachy](https://www.outreachy.org/) internship with [Guix Data Service](https://data.guix.gnu.org/) started and I have to admit that I’ve been struggling. I won’t go into detail about the technical problems that have arised while trying to accomplish my tasks, but I’ll give an overview of how those problems have affected the way I approach my activities. 
+
+I am a person who gets emotionally attached to everything I do, and that has contributed to me being unable to approach problems without getting emotionally involved.  That has also brought to my attention the fact that time is an important element to handle when it comes to dealing with simultaneous activities and if you are too dedicated to just one of them, you lose balance. 
+
+I know this sounds too common sense but in reality, managing time and emotions when you have more than one occupation going on, is pretty challenging. 
+
+At the moment, I’m dealing with both school and the internship and this is something I had never done before. I’m so used to having a fixed and not so heavy schedule, but that changed when school became no longer my only concern. My course advisor suggested that this is a completely normal reality to be in for a lot of students and that it would test my time management skills. It sure did. 
+
+At first, I was overwhelmed and got really worried about how my performance at the internship would affect my commitment to school. During the first two weeks, it did play a huge role, because whenever I got stuck at something I would start questioning my ability to do good at anything and as a result, wouldn’t pay that much attention to any other activities going on around. 
+
+Later on, I learned that knowing how to allocate time and attention was something that I had to start working on. I decided to dedicate my weekend to school, while having the rest of the week for the internship. To aid that, I went back to keeping a [bullet journal](https://www.reddit.com/r/bulletjournal/) which is something that has helped me a lot in the past. My childhood bullet journals are a whole lot more colorful than the minimalistic one I have now, but I’ll probably add more colors to it once school is completely over. 
+
+However, I still have to work on not getting emotional and nervous when things don’t work. Separating the time I spend on my commitments has somehow helped me be focused at one thing at a time. 
+Nonetheless, changing the way I operate as a person demands more time and can’t just be flipped around. I will still get sad when I run into bugs or things I don’t understand, but will try to control how much that affects my focus on the actual problem or other non-related problems. 
