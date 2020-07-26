@@ -1,0 +1,35 @@
+---
+title: Outreachy Post 3
+output: html_document
+author: Danjela Lura
+date: '2020-07-26'
+slug: outreachy-post-3
+image: "img/portfolio/outreachy.png"
+weight: 1
+showonlyimage: false
+draft: false
+categories:
+  - Outreachy
+tags: ["outreachy", "guix-data-service"]
+
+---
+> What am I going to do after Outreachy
+<!--more-->
+
+It’s been a few weeks since I last posted about my internship. 
+
+Now that only one month is left until my [Outreachy](https://www.outreachy.org/) internship is completely over, I need to start thinking about the new opportunities that might open up. 
+
+This September, I enter my third year of studies, and most likely I will dedicate myself to school related activities for the following 6-9 months. 
+I will probably use my free time during that period to explore new things and/or volunteer. 
+
+Something I’ve always wanted to learn about is containerization and the whole DevOps culture. My knowledge of these set of practices is almost zero so I guess it would be nice to at least read something on them. 
+Among the things I’ve wanted to do but haven’t had the opportunity to is also taking some Data Science classes. I know I have to learn some more math before I do that, and I don’t really have a well defined plan that could help me get started, but I’m eager to learn. 
+
+In terms of volunteering, I am looking forward to contributing translations in Albanian to [GNU Guix](https://guix.gnu.org/) because while working on [“Improve Internationalization Support for the Guix Data Service”](https://github.com/spf50/data-service/projects/1) I noticed that there were no translations in Albanian. 
+I’d also like to be more involved in volunteering at on-campus activities, as that would probably open opportunities for learning new things. Starting a club would be a good way to give back to the school community but I have to figure out what the club should be about and how creating one works.
+
+I know this post looks more like a messy bucket list than a post where I write about the potential career paths after Outreachy, but my time commitments (school) don’t permit me to have a full time job. 
+
+However I will be looking for a position once my second semester is over. In the meantime, I am going to be learning new things, volunteering, dealing with school stuff, or improving what I already know. 
+

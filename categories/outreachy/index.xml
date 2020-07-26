@@ -6,10 +6,25 @@
     <description>Recent content in Outreachy on Danjela Lura</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/outreachy/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Outreachy Post 3</title>
+      <link>/2020/07/26/outreachy-post-3/</link>
+      <pubDate>Sun, 26 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/07/26/outreachy-post-3/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;blockquote&gt;
+&lt;p&gt;What am I going to do after Outreachy
+</description>
+    </item>
     
     <item>
       <title>Outreachy Post 2</title>
