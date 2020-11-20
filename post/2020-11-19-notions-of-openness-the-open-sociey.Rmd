@@ -1,0 +1,60 @@
+---
+title: Notions of Openness - The Open Society
+output: html_document
+author: Danjela Lura
+date: '2020-11-19'
+slug: notions-of-openness-1
+weight: 1
+showonlyimage: false
+draft: false
+categories:
+  - Politics
+tags: ["politics", "notions of openness"]
+
+---
+> A society that upholds individualism and the continuity of knowledge. 
+<!--more-->
+
+The epistemological concept of the open society suggests that the absolutization of knowledge is practically unattainable, therefore power needs to be eminently distributed. Implementing a greatly decentralized governing model, consequently leads to the incorporation of  a more experimental approach into politics. This experimental approach is given rise by highly erratic developments which are brought about through legislation ("‘The Open Society’ Revisited | Issue 38 | Philosophy Now", 2020).
+
+The fact that no predictions can be made regarding whether the results of legislative acts will be characterized by inconsistencies, further supports the claim that knowledge is an ever-evolving element. 
+
+To put these ideas under one umbrella the notion of an open society was theoretically evolved mainly by Karl Popper, a 20th century philosopher of science as well as a political philosopher. Referencing Popper’s work on the philosophy of science can offer an insight into the rationale behind the open society ("Karl Popper (Stanford Encyclopedia of Philosophy)", 2020). 
+
+In terms of philosophy of science, Popper focuses on lack of certainty of the results of scientific endeavors and claims that it is impossible to assuredly testify the complete accuracy of a hypothesis, so the most suitable thing to be done is to rule that hypothesis out as false and move on trying. 
+
+Integrating the same mental model in politics, results, according to Popper, in an open society where practicality is exerted through institutions with the intention of continuously providing/changing solutions to political and social issues. Is important to note that this theory suggests that recognition should be given to rival theories as well. The continuum assures that no totalitarian means of control characterized by static notions are adapted ("‘The Open Society’ Revisited | Issue 38 | Philosophy Now", 2020)
+
+Popper touches upon Plato’s Idea of a “rational political order”1 and rigidly denies any possibility of deploying such a model by arguing that undertaking any attempts to do so would be the same as providing a singularly true scientific explanation, which according to Popper, is impossible and results in nothing but failure. 
+
+Additionally, Popper criticizes historicism2 by asserting that it narrows your strategy to precedents and this results in a constrained course of action. 
+
+Moreover trying to appeal to preceding paradigms posits fertile ground for dictatorships ("From open source to open government: A critique of open politics | ephemera", 2020).
+
+Even though Popper’s ideas are somewhat compatible with principles of liberal democracies, it is important to note that what they affirm is highly idealistic and rather epistemological. 
+
+Many critiques refute Popper’s claim that scientists should be in pursuit of falsificationism or moreover the incorporation of this kind of mindset into governance. 
+
+However, what this post is aimed towards, is providing an apprehensible insight into the idea of an Open Society and somehow explain Popper’s ideas on both philosophy of science and political philosophy. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s3r8UUiOppc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+1 rational state - the state within which everything runs smoothly, like a well-oiled machine, thanks to the way everyone concentrates on the job he, or she, is best equipped to do. 
+
+2 historicism- the idea of “learning from history.” It suggests the possibility of better understanding ourselves in the present, by understanding the forces, choices, and circumstances that brought us to our current situation. 
+
+--- 
+
+### References 
+
+Philosophy of History (Stanford Encyclopedia of Philosophy). (2020). Retrieved 10 November 2020, from https://plato.stanford.edu/entries/history/ 
+
+‘The Open Society’ Revisited | Issue 38 | Philosophy Now. (2020). Retrieved 10 November 2020, from https://philosophynow.org/issues/38/The_Open_Society_Revisited
+
+From open source to open government: A critique of open politics | ephemera. (2020). Retrieved 10 November 2020, from http://www.ephemerajournal.org/contribution/open-source-open-government-critique-open-politics-0
+
+Karl Popper (Stanford Encyclopedia of Philosophy). (2020). Retrieved 10 November 2020, from https://plato.stanford.edu/entries/popper/#SociPoliThouCritHistHoli
+
+

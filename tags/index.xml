@@ -6,10 +6,28 @@
     <description>Recent content in Tags on Danjela Lura</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>notions of openness</title>
+      <link>/tags/notions-of-openness/</link>
+      <pubDate>Fri, 20 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/notions-of-openness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>politics</title>
+      <link>/tags/politics/</link>
+      <pubDate>Fri, 20 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/politics/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>guix-data-service</title>

@@ -1,0 +1,38 @@
+---
+title: Notions of Openness - Open Source Software
+output: html_document
+author: Danjela Lura
+date: '2020-11-19'
+slug: notions-of-openness-2
+weight: 1
+showonlyimage: false
+draft: false
+categories:
+  - Politics
+tags: ["politics", "notions of openness"]
+---
+> 
+<!--more-->
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7c0IrsDsNaw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+The digital era has provided a diverse set of organizational structures, among which one of the most idiosyncratic ones is the open source software phenomenon. 
+Open Source candidly inverses the conventional notion of property by reconfiguring what it comprises. In the open source domain the definition of property is freed from the idea of exclusion and revolves mainly but not exclusively around software (Weber, 2009).
+
+An application can be considered open source software if the computer code written for it is freely available for everyone to run, examine, distribute, and improve. The setting on which such software is developed is completely nonproprietary and free of constraints like location, gender, background, or time consuming bureaucratic procedures.  The underpinning philosophy of this type of software development can be extended to other areas of life because its quintessence is the community that actively contributes in knowledge without the incentive of getting paid. Open source is the perfect example of how communities driven by certain beliefs can produce solutions that people often find more reliable than most proprietary software constructed in closed corporate organizations (Williams, 2012).
+
+The ideology that guides those self-determining people to spend their finite time and energy in a process that doesn’t provide them with monetary gains, is rather esoteric. 
+
+In order to deploy a management model of any type, you need a community that believes in the value system of the model. You might as well manufacture a community, the entities of which are coerced into following the principles of your organization, but that is fairly undemocratic and not part of the setting this blog post refers to. The relationship between community members in this setting is nothing similar to the traditional “command and control” one. If traditional ruling principles are  integrated in this management framework, a good share of the community will draw back and will cease being part of the projects (Weber, 2009). 
+
+Open Source communities are a great example of how openness can serve as a motivation for advancement and collaboration. 
+
+--- 
+
+### References 
+
+Williams, S., 2012. Free As In Freedom. Farnham: O'Reilly, pp.85-92 Available at: http://libgen.is/book/index.php?md5=B39E782365B8E5A281D4E6172F928FB0
+
+Weber, S., 2009. Success Of Open Source. Cambridge: Harvard University Press. Available at: Bissell Library. 
+
+

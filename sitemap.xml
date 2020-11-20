@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/2020/11/20/notions-of-openness-3/</loc>
+    <lastmod>2020-11-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2020/11/19/notions-of-openness-2/</loc>
+    <lastmod>2020-11-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2020/11/19/notions-of-openness-1/</loc>
+    <lastmod>2020-11-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/2020/07/26/outreachy-post-3/</loc>
     <lastmod>2020-07-26T00:00:00+00:00</lastmod>
   </url>
@@ -19,12 +34,37 @@
   
   <url>
     <loc>/categories/</loc>
-    <lastmod>2020-07-26T00:00:00+00:00</lastmod>
+    <lastmod>2020-11-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2020-07-26T00:00:00+00:00</lastmod>
+    <lastmod>2020-11-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/notions-of-openness/</loc>
+    <lastmod>2020-11-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/politics/</loc>
+    <lastmod>2020-11-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/politics/</loc>
+    <lastmod>2020-11-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2020-11-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-11-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -39,16 +79,6 @@
   
   <url>
     <loc>/tags/outreachy/</loc>
-    <lastmod>2020-07-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2020-07-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2020-07-26T00:00:00+00:00</lastmod>
   </url>
   

@@ -1,0 +1,42 @@
+---
+title: Notions of Openness - Openness to Diversity and Inclusion
+output: html_document
+author: Danjela Lura
+date: '2020-11-20'
+slug: notions-of-openness-3
+weight: 1
+showonlyimage: false
+draft: false
+categories:
+  - Politics
+tags: ["politics", "notions of openness"]
+---
+> 
+<!--more-->
+
+Being amenable to divergent ways of thinking, or behaving is a challenging endeavor that requires the removal of cognitive biases. Groups that endorse diversity, have proven direct benefits in reducing interpersonal aggression which consequently results in more peaceful and democratic environments. In addition to creating a good overall climate, having a diverse setting helps better represent different viewpoints. 
+
+Diverse perspective angles remove the fuss out of decision making as varying sets of opinions are given and that leaves more room for experimentation and optimization. As mentioned earlier in this blog post series, trial and error are the way to go in a completely open society and incorporating diversity into it only propels this way of thinking. 
+
+Is only fair for everyone to have the right of access to every area of life, however even to this day, there are still environments that tend to isolate themselves from certain groups of people. This obstructive approach contributes to the creation of a narrow and close minded society that inhibits itself from advancement and objective thinking 
+
+(Hofhuis,  van der Rijt & Vlug, 2016). 
+
+I strongly believe that variables like gender, ethnicity, race, or any other attribute an individual has no control over or has decided to assign themselves without harming other members of the society, shouldn’t determine their presence in certain fields or realms. 
+
+But how can diversity be promoted and further injected into societies? 
+
+Being a Computer Science student has opened my eyes to how much diversity is needed in a field. 
+According to a 2020 study by PWC, only 27% of the surveyed girls said they would consider a career in technology, which shows that women are mostly not encouraged to follow a career in STEM ("Women in tech: Time to close the gender gap", 2020). 
+
+I identify myself as female, and I can confirm that such underrepresentation exists. Analyzing the causes of this phenomenon is beyond the scope of this blog post, so I will just provide a brief overview of how initiatives that promote diversity through inclusion can help underrepresented individuals utilize their full potential. 
+
+In my humble opinion promoting diversity shouldn’t just revolve around delivering talks about diversity and inclusion in conferences as that doesn’t necessarily contribute to the diversification of the society or specific domains. Establishing programs that include underrepresented groups in the actual process they are being deprived from is way more useful and effective as that provides the necessary terrain for people to freely use their skills without being constrained by judgemental cognitive biases that are often shown towards them. 
+
+--- 
+
+### References
+
+Hofhuis, J., van der Rijt, P. and Vlug, M., 2016. Diversity Climate Enhances Work Outcomes Through Trust And Openness In Workgroup Communication.
+
+Women in tech: Time to close the gender gap. (2020). Retrieved 15 November 2020, from https://www.pwc.co.uk/who-we-are/women-in-technology/time-to-close-the-gender-gap.html
