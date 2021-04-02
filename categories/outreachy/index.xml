@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Outreachy on Danjela Lura</title>
-    <link>/categories/outreachy/</link>
+    <link>https://danjelalura.github.io/categories/outreachy/</link>
     <description>Recent content in Outreachy on Danjela Lura</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 26 Jul 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/outreachy/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://danjelalura.github.io/categories/outreachy/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Outreachy Post 3</title>
-      <link>/2020/07/26/outreachy-post-3/</link>
+      <link>https://danjelalura.github.io/2020/07/26/outreachy-post-3/</link>
       <pubDate>Sun, 26 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/07/26/outreachy-post-3/</guid>
+      <guid>https://danjelalura.github.io/2020/07/26/outreachy-post-3/</guid>
       <description>
-&lt;script src=&#34;/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://danjelalura.github.io/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;blockquote&gt;
@@ -28,12 +28,12 @@
     
     <item>
       <title>Outreachy Post 2</title>
-      <link>/2020/06/14/outreachy-post-2/</link>
+      <link>https://danjelalura.github.io/2020/06/14/outreachy-post-2/</link>
       <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/06/14/outreachy-post-2/</guid>
+      <guid>https://danjelalura.github.io/2020/06/14/outreachy-post-2/</guid>
       <description>
-&lt;script src=&#34;/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://danjelalura.github.io/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;blockquote&gt;
@@ -43,12 +43,12 @@
     
     <item>
       <title>Outreachy Post 1</title>
-      <link>/2020/05/13/outreachy-post-1/</link>
+      <link>https://danjelalura.github.io/2020/05/13/outreachy-post-1/</link>
       <pubDate>Wed, 13 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/05/13/outreachy-post-1/</guid>
+      <guid>https://danjelalura.github.io/2020/05/13/outreachy-post-1/</guid>
       <description>
-&lt;script src=&#34;/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://danjelalura.github.io/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;blockquote&gt;

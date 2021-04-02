@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Danjela Lura</title>
-    <link>/tags/</link>
+    <link>https://danjelalura.github.io/tags/</link>
     <description>Recent content in Tags on Danjela Lura</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 20 Nov 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://danjelalura.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>notions of openness</title>
-      <link>/tags/notions-of-openness/</link>
+      <link>https://danjelalura.github.io/tags/notions-of-openness/</link>
       <pubDate>Fri, 20 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/notions-of-openness/</guid>
+      <guid>https://danjelalura.github.io/tags/notions-of-openness/</guid>
       <description></description>
     </item>
     
     <item>
       <title>politics</title>
-      <link>/tags/politics/</link>
+      <link>https://danjelalura.github.io/tags/politics/</link>
       <pubDate>Fri, 20 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/politics/</guid>
+      <guid>https://danjelalura.github.io/tags/politics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>guix-data-service</title>
-      <link>/tags/guix-data-service/</link>
+      <link>https://danjelalura.github.io/tags/guix-data-service/</link>
       <pubDate>Sun, 26 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/guix-data-service/</guid>
+      <guid>https://danjelalura.github.io/tags/guix-data-service/</guid>
       <description></description>
     </item>
     
     <item>
       <title>outreachy</title>
-      <link>/tags/outreachy/</link>
+      <link>https://danjelalura.github.io/tags/outreachy/</link>
       <pubDate>Sun, 26 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/outreachy/</guid>
+      <guid>https://danjelalura.github.io/tags/outreachy/</guid>
       <description></description>
     </item>
     

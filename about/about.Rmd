@@ -1,0 +1,13 @@
+---
+title: "About me"
+date: '2019-19-05'
+layout: 'portfolio'
+featured: true
+---
+
+
+This is Danjela! I am a computer science major based in Greece, and this blog/portfolio is my go-to place to share my views, ideas, and experiences with the world! 
+
+I am momentarily focused on initiatives that improve diversity and inclusion within the local tech communities I belong to. 
+
+I have just started an [R-Ladies](https://rladies.org/) chapter in the city of Thessaloniki, and I am working on officially kick starting the chapter by hosting a workshop related to functional programming (which I love) in R. I would love to move to open data later, so please ping me in case you would like to become part of R Ladies Thessaloniki.

@@ -1,15 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>About me on Danjela Lura</title>
-    <link>/about/</link>
-    <description>Recent content in About me on Danjela Lura</description>
+    <title>About on Danjela Lura</title>
+    <link>https://danjelalura.github.io/about/</link>
+    <description>Recent content in About on Danjela Lura</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Nov 2016 21:05:33 +0530</lastBuildDate>
     
-	<atom:link href="/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://danjelalura.github.io/about/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About me</title>
+      <link>https://danjelalura.github.io/about/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://danjelalura.github.io/about/about/</guid>
+      <description>This is Danjela! I am a computer science major based in Greece, and this blog/portfolio is my go-to place to share my views, ideas, and experiences with the world!
+I am momentarily focused on initiatives that improve diversity and inclusion within the local tech communities I belong to.
+I have just started an R-Ladies chapter in the city of Thessaloniki, and I am working on officially kick starting the chapter by hosting a workshop related to functional programming (which I love) in R.</description>
+    </item>
     
   </channel>
 </rss>
